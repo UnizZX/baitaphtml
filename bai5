@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>bai5</title>
+    <meta charset ="utf-8"/>
+</head>
+<body style="font-size: 30px">
+    <h2 style="text-align: center; font-size: 50px">Định dạng văn bản</h2>
+    <div>
+        <span style="font-weight: bold; font-style:italic; text-decoration:underline">Hóa học:</span>
+        <i>Nước</i>:
+        <span style="color: red; ">H<sub>2</sub>O</span>;
+        <i style="">Axit Sunfuric</i>:
+        <span style="color: red; ">H<sub>2</sub>SO<sub>4</sub></span>
+    </div>
+    <br>
+    <div>
+        <span style="font-weight: bold; font-style:italic; text-decoration:underline">Toán học:</span>
+        <i>Phương trình bậc 2</i>:
+        <span style="color: red; ">ax<sup>2</sup>+bx+c=0</span>
+    </div>
+    <div>
+        <span style="font-weight: bold; font-style:italic; text-decoration:underline">Tin học:</span>
+        <i>Vòng lặp for</i>:
+    </div>
+    <pre style="color: #0000CC; background-color: #CCCCCC; text-align: start; font-family: consolas; font-size: 20px ;">
+                                                            For i = 0 To 10 <br>
+                                                                    Tong = Tong + 1 <br>
+                                                            Next
+    </pre>
+</body> 
