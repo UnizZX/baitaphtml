@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <title>bai2</title>
+    <meta charset ="utf-8"/>
+</head>
+<body>
+<h1 style="text-align: center; color: #060;">Bài 02: Sử dụng các tag cơ bản (tt)</h1>
+<h2 style="text-decoration-line:underline; color: #0000FF">Yêu cầu:</h2>
+<p style="font-weight:bold">Thiết kế trang web có nội dung như sau:</p>
+<h2 style="text-align: center;background-color: #FF3399; color: #FECFFD">MẸ !</h2>
+<div style="background-color: #FFFFCC; text-align: center; font-size: 20px; font-style: italic; color: blue">
+Mẹ là cả một bầu trời thương <br>
+Mẹ là cả một thiên đường trần gian <br>
+Công ơn cha mẹ tựa biển trời 
+</div>
+<hr style="width: 240px">
+<div style="background-color: #FFFFCC; text-align: center; font-size: 20px; font-style: italic; color:brown">
+Làm sao báo hiếu hỡi người ơi? <br>
+Nếu chưa báo hiếu đừng bất hiếu <br>
+Bất hiếu làm ta khó muôn đời. 
+</div>
+<hr style="width: 240px">
+<div style="background-color: #FFFFCC; text-align: center; font-size: 20px; font-style: italic; color:green">
+Một đời vốn liếng mẹ trao <br>
+Mẹ cho tất cả mẹ nào giữ riêng <br>
+Mẹ hiền như một bà thiên <br>
+Mẹ theo con suốt hành trình con đi 
+</div>   
+</body>
